@@ -1,7 +1,8 @@
 {
-  "name": "log.io",
+  "name": "log.io.mod",
   "version": "0.4.14",
   "description": "Listens for new messages over TCP and broadcasts to browsers via socket.io",
+  "private": true,
   "homepage": "http://logio.org",
   "repository": {
     "type": "git",
